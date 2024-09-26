@@ -3,7 +3,7 @@
 -- criado previamente. Por fim, execute o código da linha 7 
 -- em diante no Athena para criar a tabela "tb_produtos".
 
--- Script para criação da tabela "tb_produtos"
+-- Script para criação da tabela "tb_produtos".
 create external table tb_produtos 
 ( 
     codigo string, 
